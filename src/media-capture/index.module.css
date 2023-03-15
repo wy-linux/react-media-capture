@@ -1,0 +1,21 @@
+.capture-preview {
+    display: flex;
+    justify-content: space-between;
+}
+.capture-video {
+    width: 400px;
+}
+.capture-audio {
+    margin-top: 60px;
+    width: 400px;
+}
+.capture-handle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.capture-handle button {
+    width: 200px;
+    margin-top: 20px;
+}
